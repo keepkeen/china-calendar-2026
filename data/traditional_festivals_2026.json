@@ -1,0 +1,91 @@
+{
+  "year": 2026,
+  "source": {
+    "name": "香港天文台 / DATA.GOV.HK 公历与农历对照表",
+    "csv_url": "https://data.weather.gov.hk/weatherAPI/hko_data/calendar/nongli_calendar_2026.csv",
+    "with_solar_term_overrides": "solar_term_festivals_2026.json"
+  },
+  "traditional_festivals": [
+    {
+      "date": "2026-01-26",
+      "name": "腊八节",
+      "basis": "农历十二月初八"
+    },
+    {
+      "date": "2026-02-10",
+      "name": "北方小年",
+      "basis": "农历十二月廿三"
+    },
+    {
+      "date": "2026-02-16",
+      "name": "除夕",
+      "basis": "农历十二月廿九"
+    },
+    {
+      "date": "2026-02-17",
+      "name": "春节",
+      "basis": "农历正月初一"
+    },
+    {
+      "date": "2026-03-03",
+      "name": "元宵节",
+      "basis": "农历正月十五"
+    },
+    {
+      "date": "2026-03-20",
+      "name": "龙抬头",
+      "basis": "农历二月初二"
+    },
+    {
+      "date": "2026-04-05",
+      "name": "清明节",
+      "basis": "二十四节气"
+    },
+    {
+      "date": "2026-04-19",
+      "name": "上巳节",
+      "basis": "农历三月初三"
+    },
+    {
+      "date": "2026-06-19",
+      "name": "端午节",
+      "basis": "农历五月初五"
+    },
+    {
+      "date": "2026-08-19",
+      "name": "七夕",
+      "basis": "农历七月初七"
+    },
+    {
+      "date": "2026-08-27",
+      "name": "中元节",
+      "basis": "农历七月十五"
+    },
+    {
+      "date": "2026-09-25",
+      "name": "中秋节",
+      "basis": "农历八月十五"
+    },
+    {
+      "date": "2026-10-18",
+      "name": "重阳节",
+      "basis": "农历九月初九"
+    },
+    {
+      "date": "2026-11-09",
+      "name": "寒衣节",
+      "basis": "农历十月初一"
+    },
+    {
+      "date": "2026-11-23",
+      "name": "下元节",
+      "basis": "农历十月十五"
+    },
+    {
+      "date": "2026-12-22",
+      "name": "冬至",
+      "basis": "二十四节气"
+    }
+  ],
+  "fetched_from_network": true
+}
